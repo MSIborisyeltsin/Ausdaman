@@ -3,7 +3,7 @@
   <a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/README.md">Русский</a>
 </h4>
 <h5 align="center">
-  <a href="https://github.com/MSIBorisyeltsin/Austadaman"><img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/pic.png" alt="austadamanPicture" height="300"></a>
+  <img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/pic.png" alt="austadamanPicture" height="300">
   <br>
   Изображение носит иллюстративный характер и может не соответствовать с идеей проекта
 </h5>
