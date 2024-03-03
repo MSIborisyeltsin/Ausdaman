@@ -54,6 +54,7 @@ For example:
 
 ### TODO
 - The mod needs to be localized in English
+- It is necessary to create a relief
 
 ### Support
 ❤️ You can support this ambitious project with a star or by inviting friends. You can also suggest your ideas
