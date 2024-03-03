@@ -18,7 +18,7 @@
         "Intensivity Amplitude": "0.3",
         "Movement Amplitude": "1"
       },
-      "Base Cost": 1,
+      "Base Cost": 0.3,
       "Skill Usage Mult": 0.12
     },
     "Taper Duration": 1,
@@ -34,7 +34,7 @@
     "Visual Effects": {
       "Casting Art": "FXLightSpellHandEffects",
       "Casting Light": "MagicLightLightSpellHand01",
-      "Hit Effect Art": "[Custom]"
+      "Hit Effect Art": "VioletLightSpellFX"
     },
     "Spellmaking": {
       "Power Affects": "Duration",
