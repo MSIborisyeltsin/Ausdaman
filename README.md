@@ -5,7 +5,7 @@
 <h5 align="center">
   <img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/pic.png" alt="austadamanPicture" height="300">
   <br>
-  The image is for illustrative purposes and may not correspond to the idea of the project
+  Изображение носит иллюстративный характер и может не соответствовать с идеей проекта
 </h5>
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/MSIBorisyeltsin/Ausdaman">
@@ -13,31 +13,31 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MSIBorisyeltsin/Ausdaman">
 </p>
 
-# Ausdaman - "Land of the Forgotten"
+# Ausdaman - "Земля Забытых"
 
-Modification for TESV with a new Oblivion plan
+Модификация для TESV с новым планом Обливиона
 <br>
-Status: in experimental mode
+Статус: в экспериментальном режиме
 <br>
-<a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/Logs/">View logs</a>
+<a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/Logs/">Посмотреть логи</a>
 
-<!-- ## Key changes -->
+<!-- ## Ключевые изменения -->
 
-## Help in development
-### Requirements
-Necessarily:
+## Помочь в разработке
+### Требования
+Обязательно:
 - Creation Kit
 - Skyrim
 - NifScope
-- Modification manager
+- Менеджер модификаций
 - BSA Browser
 
-Optional:
-- Software for creating 3D graphics
-- DAW (Digital Audio Workstation)
-- Multifunctional graphic editor
+Опционально:
+- ПО для создания трёхмерной графики
+- DAW (цифровая звуковая рабочая станция)
+- Многофункциональный графический редактор
 
-For example:
+Для примера:
 - Creation Kit SSE (v1.5.73)[CKPE:v0.2 build 460]
 - Skyrim SE (1.6.640.0.8)
 - NifScope 2.0 Dev
@@ -48,22 +48,22 @@ For example:
 - GIMP (2.10.36)
 
 > [!NOTE]
-> It will also be necessary to create “Textures” and “Meshes” folders in the Data folder of the game’s root directory, where we will save textures and other things to avoid the “Invalid directory” error.
+> Также будет необходимо в папке Data корневой директории игры создать папки "Textures" и "Meshes", где мы будем сохранять текстуры и другое, чтобы избежать ошибки "Invalid directory".
 
-<!-- ### Tips for beginners -->
+<!-- ### Советы новичкам -->
 
 ### TODO
 > [!TIP]
-> Before localizing the project, it is recommended to issue a release 🪚
-- ~~The mod needs to be localized in English~~
-- It is necessary to create a relief
+> Перед локализацией проекта рекомендуется выпустить релиз 🪚
+- ~~Необходима локализация мода под английский язык~~
+- Необходимо создать рельеф
 
-### Support
-❤️ You can support this ambitious project with a star or by inviting friends. You can also suggest your ideas
+### Поддержка
+❤️ Вы можете поддержать этот амбициозный проект звёздочкой или приглашением друзей. Также вы можете предлагать свои идеи
 
 <!-- ## FAQ -->
 
-# Feedback
-If you have another problem, then write to Issues using the necessary tags.
+# Обратная связь
+Если у вас есть другая проблема, то напишите в Issues, воспользовавшись необходимыми тегами.
 
-[Write to the project team lead in Telegram](https://t.me/cumbiasobreelaqua)
+[Написать тимлиду проекта в Телеграм](https://t.me/cumbiasobreelaqua)
