@@ -1,8 +1,10 @@
 {
-	"Name": "Changing SpellBook Texture"
+	"Name": "Changing SpellBook Texture",
 	"Targets": [
 		"NIF-file",
 		"Textures",
-		"Textures_n"
-	]
+		"Textures_n",
+		"BugReport"
+	],
+	"BugReport":  "It is impossible to interact with the book, it is not affected by physics"
 }
