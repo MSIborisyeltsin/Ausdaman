@@ -53,7 +53,9 @@ For example:
 <!-- ### Tips for beginners -->
 
 ### TODO
-- The mod needs to be localized in English
+> [!TIP]
+> Before localizing the project, it is recommended to issue a release 🪚
+- ~~The mod needs to be localized in English~~
 - It is necessary to create a relief
 
 ### Support
