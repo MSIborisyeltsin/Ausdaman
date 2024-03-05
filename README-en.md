@@ -3,9 +3,8 @@
   <a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/README.md">Русский</a>
 </h4>
 <h5 align="center">
-  <img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/pic.png" alt="austadamanPicture" height="300">
+  <img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/pic.png" alt="austadamanPicture">
   <br>
-  The image is for illustrative purposes and may not correspond to the idea of the project
 </h5>
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/MSIBorisyeltsin/Ausdaman">
