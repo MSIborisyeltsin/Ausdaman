@@ -1,0 +1,8 @@
+{
+	"Name": "Changing SpellBook Texture",
+	"Targets": [
+		"NIF-files",
+		"Textures",
+		"Textures_n"
+	]
+}
