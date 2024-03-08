@@ -65,4 +65,4 @@ For example:
 # Feedback
 If you have another problem, then write to Issues using the necessary tags.
 
-[Write to the project team lead in Telegram](https://t.me/cumbiasobreelaqua)
+[Write to the project team lead in Telegram](https://t.me/vietnamsurvivor)
