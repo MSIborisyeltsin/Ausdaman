@@ -51,7 +51,7 @@
 
 ### Советы новичкам
 - [https://tesck.ru/wiki/](https://tesck.ru/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
-
+- [Туториалы по Creation Kit от блогера gkalian](https://www.youtube.com/watch?v=viXhuvW_zRQ&list=PLAF214CD951A11FF7&index=39)
 ### TODO
 > [!TIP]
 > Перед локализацией проекта рекомендуется выпустить релиз 🪚
