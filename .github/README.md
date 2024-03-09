@@ -65,7 +65,7 @@ For example:
 ### TODO
 > [!TIP]
 > Before localizing the project, it is recommended to issue a release 🪚
-- ~~The mod needs to be localized in English~~
+- ~~The mod needs to be localized~~
 - It is necessary to create a relief
 
 <!-- ## FAQ -->
