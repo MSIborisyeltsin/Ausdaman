@@ -13,7 +13,7 @@
   </a>
 </p>
 <h5 align="center">
-  <img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/pic.png" alt="austadamanPicture">
+  <img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/.github/pic.png" alt="austadamanPicture">
   <br>
 </h5>
 <p align="center">
