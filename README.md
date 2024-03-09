@@ -49,7 +49,8 @@ For example:
 > [!NOTE]
 > It will also be necessary to create “Textures” and “Meshes” folders in the Data folder of the game’s root directory, where we will save textures and other things to avoid the “Invalid directory” error.
 
-<!-- ### Tips for beginners -->
+### Tips for beginners
+- [https://ck.uesp.net/](https://ck.uesp.net/wiki)
 
 ### TODO
 > [!TIP]
