@@ -6,6 +6,7 @@
     "Casting Type": "Fire and forget",
     "Delivery": "to myself",
     "Magic Skill": "alterative",
+    "Minimum Skill Level": 50,
     "AssI.I.1": {
       "Name": "MagicLightLightSpell01",
       "Type": "Omnidirectional",
