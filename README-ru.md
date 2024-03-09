@@ -1,6 +1,6 @@
 <h4 align="center">
-  <a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/README-en.md">English</a> |
-  <a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/README.md">Русский</a>
+  <a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/README.md">English</a> |
+  <a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/README-ru.md">Русский</a>
 </h4>
 <h5 align="center">
   <img src="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/pic.png" alt="austadamanPicture">
@@ -49,7 +49,8 @@
 > [!NOTE]
 > Также будет необходимо в папке Data корневой директории игры создать папки "Textures" и "Meshes", где мы будем сохранять текстуры и другое, чтобы избежать ошибки "Invalid directory".
 
-<!-- ### Советы новичкам -->
+### Советы новичкам
+- [https://tesck.ru/wiki/](https://tesck.ru/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 
 ### TODO
 > [!TIP]
