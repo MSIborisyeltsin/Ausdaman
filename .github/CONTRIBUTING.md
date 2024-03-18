@@ -23,4 +23,4 @@ All pull requests containing a feature or fix must be tested in your game.
 If you want to say **thank you** and/or support the active development of `Ausdaman`:
 
 1. Add a [GitHub Star](https://github.com/MSIborisyeltsin/Ausdaman/stargazers) to the project.
-2. Tweet about the project [on your 𝕏 (Twitter)](https://x.com/intent/tweet?text=%F0%9F%94%A5%20Ausdaman%20%E2%80%94%20is%20a%20new%20mod%20for%20#Skyrim%20with%20new%20plan%20of%20Oblivion%20https://github.com/MSIborisyeltsin/Ausdaman).
+2. Tweet about the project [on your 𝕏 (Twitter)](https://x.com/intent/tweet?text=%F0%9F%94%A5%20Ausdaman%20%E2%80%94%20is%20a%20new%20mod%20for%20Skyrim%20with%20new%20plan%20of%20Oblivion%20https://github.com/MSIborisyeltsin/Ausdaman).
