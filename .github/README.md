@@ -62,6 +62,7 @@ For example:
 - ~~The mod needs to be localized~~
 - It is necessary to create a relief
 
+This section lists only the main points. You can view all tasks [here](https://github.com/MSIborisyeltsin/Ausdaman/issues)
 <!-- ## FAQ -->
 
 <!-- ## Сontributors  -->
