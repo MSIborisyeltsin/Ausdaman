@@ -21,8 +21,6 @@
 新しいオブリビオン計画によるTESVの修正
 <br>
 ステータス: 実験モード中
-<br>
-<a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/Logs/">ログを表示する</a>
 
 <!-- ## 主な変更点 -->
 
@@ -62,6 +60,7 @@
 - ~~MOD をローカライズする必要があります~~
 - レリーフを作成する必要があります
 
+このセクションでは、要点のみを示します。 [ここ](https://github.com/MSIborisyeltsin/Ausdaman/issues)ですべてのタスクを表示できます
 <!-- ## FAQ -->
 
 <!-- ## 貢献者  -->
