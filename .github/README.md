@@ -21,8 +21,6 @@
 Modification for TESV with a new Oblivion plan
 <br>
 Status: in experimental mode
-<br>
-<a href="https://github.com/MSIBorisyeltsin/Ausdaman/blob/main/Logs/">View logs</a>
 
 <!-- ## Key changes -->
 
