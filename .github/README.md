@@ -20,7 +20,10 @@
 
 Modification for TESV with a new Oblivion plan
 <br>
-Status: in experimental mode
+Status: Raw&Training
+
+> [!IMPORTANT]
+> March 27, 2024: The author stopped logging the project under the pretext of inappropriateness. This affected the `Logs` and `src` directories, they will be removed soon. **Now everything will be compiled in one .7z file**
 
 <!-- ## Key changes -->
 
