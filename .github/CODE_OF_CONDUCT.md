@@ -19,7 +19,11 @@ community include:
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
+* Help and support across all skill levels
+  > Programming, 3D modeling, concept drawing, voice acting, game modification, pentesting, information analytics and more is a difficult task that requires a lot of courage and dedication. If someone doesn't know how to do something or has a question that you think has an obvious answer, kindly and calmly help them. Heckling and being blunt doesn't help anyone learn or work on this project. Can't say it nicely? Don't weigh yourself
+* Think before you share
+  > We care about your anonymity. Be careful not to share or publish any personal information that could be misused. This includes your phone number, age, address, time you will be home, school name, email address or other personal information that may compromise your privacy. Simply put: don't share too much. If you still want to share your personal information, you do so at your own peril and risk. No one except you will bear responsibility for this.
+
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
@@ -31,8 +35,6 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
 
 ## Enforcement Responsibilities
 
@@ -58,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-https://web.telegram.org/k/#@joomipoll.
+[owner](https://t.me/vietnamsurvivor).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -71,8 +73,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Community Impact**: Use of inappropriate language or other behavior deemed unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
@@ -110,6 +111,14 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
+## To Summarize
+We do not tolerate content that is:
+- Excessively profane or violent
+- Spam
+- Threatening, harassing, or bullying
+- Associated with racism or intolerance
+- Personal confidential information
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
@@ -124,3 +133,5 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+The code of conduct has been adjusted following the rules of the **volant127 org**.
