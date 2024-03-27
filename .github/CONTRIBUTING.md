@@ -13,7 +13,7 @@ Titles always we must use prefix according to below:
 - 🔥 Feature: New feature!
 - ♻️ Refactoring: rename file X to Y.
 - 🩹 Correction: improve flow.
-- 📚 Doc: fixes regarding .github directory files or JSON files (Except renaming).
+- 📚 Doc: fixes regarding .github directory files (Except renaming).
 - 🎨 Style: new design of something.
 
 All pull requests containing a feature or fix must be tested in your game.
