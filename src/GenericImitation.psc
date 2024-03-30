@@ -1,23 +1,25 @@
-{Copyleft (C) 2019-2024 Volant127 (JI_n&C),
-All Rights Reserved. Permission to use in any form must be used in accordance with the GNU AGPL v.3.0}
-scriptName GenericImitation extends AMagicEffect
+scriptName GenericImitationScript extends ActiveMagicEffect
 
-; props
-shout property MonsterShout auto
-faction property PlayerWerewolfFaction auto
-spell property SPELLCLEAR1 auto
-weapon property WEAPONCLEAR2 auto
-ammo property MonsterAmmo auto
-spell property ImitationSpell auto
-weapon property WEAPONCLEAR1 auto
-faction property MonsterFaction auto
-quest property CompanionsTrackingQuest auto
-armor property MonsterArmor auto
-race property ImitationRace auto
-spell property SPELLCLEAR2 auto
-weapon property MonsterWeapon auto
+; Copyleft (C) 2019-2024 Volant127 (JI_n&C),
+; All Rights Reserved. Permission to use in any form must be used in accordance with the GNU AGPL v.3.0
+
+Shout property MonsterShout auto
+Faction property PlayerWerewolfFaction auto
+SPELL property SPELLCLEAR1 auto
+WEAPON property WEAPONCLEAR2 auto
+Ammo property MonsterAmmo auto
+Spell property ImitationSpell auto
+WEAPON property WEAPONCLEAR1 auto
+Faction property MonsterFaction auto
+Quest property CompanionsTrackingQuest auto
+Armor property MonsterArmor auto
+Race property ImitationRace auto
+SPELL property SPELLCLEAR2 auto
+Weapon property MonsterWeapon auto
 
 function OnEffectFinish(Actor Target, Actor Caster)
+	Game.EnableFastTravel(true)
+	Game.SetBeastForm(false)
 	game.GetPlayer().RemoveSpell(ImitationSpell)
 	game.GetPlayer().UnEquipSpell(ImitationSpell, 0)
 	game.GetPlayer().RemoveFromFaction(MonsterFaction)
@@ -41,14 +43,17 @@ function OnEffectFinish(Actor Target, Actor Caster)
 	game.SetPlayerReportCrime(true)
 	game.GetPlayer().SetAttackActorOnSight(false)
 	game.GetPlayer().RemoveFromFaction(PlayerWerewolfFaction)
+	debug.Trace("WEREWOLF: Setting race " + (CompanionsTrackingQuest as companionshousekeepingscript).PlayerOriginalRace as string + " on " + game.GetPlayer() as string, 0)
 	game.GetPlayer().SetRace((CompanionsTrackingQuest as companionshousekeepingscript).PlayerOriginalRace)
 endFunction
 
 function OnEffectStart(Actor Target, Actor Caster)
 	if Target.GetActorBase().GetRace() != ImitationRace
 		game.GetPlayer().UnequipAll()
-		Target.SetRace(PolymorphRace)
-		game.GetPlayer().SetHeadTracking(false)
+		Target.SetRace(ImitationRace)
+		Game.SetBeastForm(True)
+    	Game.EnableFastTravel(False)
+		; game.GetPlayer().SetHeadTracking(true)
 		game.GetPlayer().AddSpell(SPELLCLEAR1, true)
 		game.GetPlayer().EquipSpell(SPELLCLEAR1, 0)
 		game.GetPlayer().AddSpell(SPELLCLEAR2, true)
@@ -67,7 +72,7 @@ function OnEffectStart(Actor Target, Actor Caster)
 		game.GetPlayer().EquipItem(MonsterAmmo as form, false, false)
 		game.GetPlayer().AddItem(MonsterArmor as form, 1, false)
 		game.GetPlayer().EquipItem(MonsterArmor as form, false, false)
-		game.DisablePlayerControls(false, false, false, false, false, true, false, false, 0)
+		game.DisablePlayerControls(abMovement = false, abFighting = false, abCamSwitch = false, abMenu = false, abActivate = false, abJournalTabs = false, aiDisablePOVType = 1)
 		game.SetPlayerReportCrime(false)
 		game.GetPlayer().SetAttackActorOnSight(true)
 		game.GetPlayer().AddToFaction(PlayerWerewolfFaction)
